@@ -46,6 +46,7 @@ def local_extraction():
             y, sr = librosa.load(rf"{folder_path}\{file}", sr=sample_rate)
             
             fname = file.split('.')[0]+file.split('.')[1]
+            print(fname)
             label = file.split('.')[0]
             
             segments = divide_audio(y=y, sr=sr)
