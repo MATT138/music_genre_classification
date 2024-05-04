@@ -1,0 +1,2 @@
+{"params": {"name": "ANN", "arch": "54-108-108-108-216-216-108-54-10", "criterion": "BCELoss", "lr": 0.0009, "epoch": 300, "batch_size": 128,
+"optimizer":"Adam","activation":"Sigmoid", "features": "All"}, "train_loss": 0.129300057888031, "val_loss": 0.5501477718353271, "train_acc": 0.7225419064298224, "train_song_acc": 0.89375, "val_acc": 0.39028056112224446, "val_song_acc": 0.46, "duration": 132.1058588027954}

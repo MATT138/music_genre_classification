@@ -1,5 +1,11 @@
 Data/
 test.py
+test.pth
+test_train_load.py
 venv/
 wav/
 *.docx
+__pycache__/
+*.pyc
+*.csv
+.ipynb_checkpoints/

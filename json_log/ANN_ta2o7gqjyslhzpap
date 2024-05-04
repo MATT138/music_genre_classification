@@ -1,0 +1,1 @@
+{"params": {"name": "ANN", "arch": "54-108-108-108-108-108-108-54-10", "criterion": "BCELoss", "lr": 0.001, "epoch": 100, "batch_size": 128}, "train_loss": 0.22951777279376984, "val_loss": 0.2728016972541809, "train_acc": 0.43482611958969225, "train_song_acc": 0.5175, "val_acc": 0.3872745490981964, "val_song_acc": 0.415, "duration": 74.93081545829773}
